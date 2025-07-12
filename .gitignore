@@ -1,0 +1,6 @@
+lokesh_photos/
+employee_photos/
+__pycache__
+*.pyc
+*.log
+.DS_Store
